@@ -2,7 +2,7 @@
 <h3 align="center">A passionate in web development & I am from India</h3>
 <img align="right" alt="" width="400" src="https://cdn.dribbble.com/users/116207">
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227gif"alt="sonareparth7" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"alt="sonareparth7" /> </p>
 
 - 🌱 I’m currently learning **Javascript, CSS & Python**
 
